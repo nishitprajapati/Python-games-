@@ -1,6 +1,7 @@
 # from Nishit prajapati - acmnishit@gmail.com
 
-# this is a simple version of a blackjack game.
+# this is a simple version of a blackjack game. whoever's cards' su becomes 21 or more first gets busted. you are playing this against computer.
+# you can use deal button to deal new cards and start game again, stand button to stand at the position you are, and hit card to get new card in an ongoing game.
 
 '''
 https://py2.codeskulptor.org/#user48_X82o7Oo1OldDTel.py
