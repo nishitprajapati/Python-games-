@@ -1,6 +1,12 @@
 # Rock-paper-scissors-lizard-Spock mini project week 1
 # from Nishit Prajapati - acmnishit@gmail.com
 
+# run this code file on below given link
+# by repeatedly pressing play button on code skulptor, you will see the game working
+'''
+https://py2.codeskulptor.org/#user48_yiAdqXX7EygFs8m.py
+
+'''
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
 # as follows:
