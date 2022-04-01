@@ -1,2 +1,4 @@
-# Python-games-
+# Python-games
 These games were written in python on codeskulptor as a part of weekend project for Coursera course on python by RICE university.
+
+You can go on to the links provided in start of the codes of games, to execute and play them on codeskulptor.
